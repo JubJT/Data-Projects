@@ -1,12 +1,15 @@
 # Airbnb Analysis - London :uk:
 
-Date: January 2023
+### Date : January 2023
 
-Team: Masooma Alghawas, Eman Mohamed, Jubran AlTaitoon, Budoor Sulaiman & Saleh Alfardan
+### Team : Masooma Alghawas, Eman Mohamed, Jubran AlTaitoon, Budoor Sulaiman & Saleh Alfardan
 
-Tools: 
+### Tools : 
   - Microsoft Excel : Data cleaning, EDA, and Visualization
   - Microsoft PowerPoint: Presentation
+
+### Summary :
+Analysis of Airbnb London listings for the purpose of presenting investors interested in entering the Airbnb market in London.  The scope of this analysis involved a comparison of the neighborhoods in London based on the number of listings, average ratings, type of properties, and the estimated average revenue. Then, proposing recommendations for the types of properties and the neighborhoods to invest in within London for Airbnb purposes.
 
 ### [Data Source](http://insideairbnb.com/get-the-data/)
 
