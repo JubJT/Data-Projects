@@ -2,7 +2,7 @@
 
 ### Date : February 2023
 
-### Team : Mohammed Jaafar & Jubran AlTaitoon
+### Team : Mohammed Jaafar & [Jubran AlTaitoon](https://www.linkedin.com/in/jubranaltaitoon)
 
 ### Tools: 
   - SQLite : Data cleaning
