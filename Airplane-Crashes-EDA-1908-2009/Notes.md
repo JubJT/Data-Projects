@@ -2,7 +2,7 @@
 
 ### Date : February 2023
 
-### Team : Murad Afzal, Jamal AlTaitoon, Azeem Afzal & Jubran AlTaitoon
+### Team : [Murad Afzal](https://www.linkedin.com/in/muradafzal), [Jamal AlTaitoon](https://www.linkedin.com/in/jamalaltaitoon), [Azeem Afzal](https://www.linkedin.com/in/azeem-afzal-342470112) & [Jubran AlTaitoon](https://www.linkedin.com/in/jubranaltaitoon)
 
 ### Tools: 
 - __Jupyter Notebook__ + __Python (_Pandas, Numpy, Seaborn & Plotly_)__ : Data Cleaning, EDA, & Visualization 
