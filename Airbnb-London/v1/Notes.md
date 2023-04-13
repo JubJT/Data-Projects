@@ -2,7 +2,7 @@
 
 ### Date : January 2023
 
-### Team : Masooma Alghawas, Eman Mohamed, Jubran AlTaitoon, Budoor Sulaiman & Saleh Alfardan
+### Team : [Masooma Alghawas](https://www.linkedin.com/in/masoomaalghawas), [Eman Mohamed](https://www.linkedin.com/in/eman-mohemmed), [Jubran AlTaitoon](https://www.linkedin.com/in/jubranaltaitoon), [Budoor Sulaiman](https://www.linkedin.com/in/budoor-sulaiman) & [Saleh Alfardan](https://www.linkedin.com/in/salehalfardan)
 
 ### Tools : 
   - Microsoft Excel : Data cleaning, EDA, and Visualization
