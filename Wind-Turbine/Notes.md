@@ -2,7 +2,7 @@
 
 ### Date : March 2023
 
-### Team : Haleema Esam, Jubran AlTaitoon, Ameera Salman, Khulood Aloun, & Zahra Alkhawaja
+### Team : [Haleema Esam](https://www.linkedin.com/in/haleemaesam/), [Jubran AlTaitoon](https://www.linkedin.com/in/jubranaltaitoon), [Ameera Salman](https://www.linkedin.com/in/ameera-salman-34532740), [Khulood Aloun](https://www.linkedin.com/in/khulood-aloun), & [Zahra Alkhawaja](https://www.linkedin.com/in/zahra-alkhawaja)
 
 ### Tools :
   - Jupyter Notebook + Python (Pandas, Numpy, Seaborn & Plotly) : Data Cleaning & EDA
