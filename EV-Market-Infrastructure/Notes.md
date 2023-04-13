@@ -3,7 +3,7 @@
 ### Date : March 2023
 
 ### Tools :
-  - Microsoft Excel : Data cleaning, & EDA
+  - Jupyter Notebook + Python (Pandas, Numpy, Seaborn & Plotly) : Data Cleaning & EDA
   - Tableau : Visualization & Presentation
 
 ### Summary : 
