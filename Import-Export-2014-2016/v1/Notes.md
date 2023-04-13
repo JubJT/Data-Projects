@@ -1,12 +1,15 @@
 # Global Trade Insight: Import & Export 2014-2016
 
-Date: February 2023
+### Date : February 2023
 
-Team: Mohammed Jaafar & Jubran AlTaitoon
+### Team : Mohammed Jaafar & Jubran AlTaitoon
 
-Tools: 
+### Tools: 
   - SQLite : Data cleaning
   - Tableau: EDA, Visualization & Presentation
+
+### Summary : 
+Analysis of global import and export of commodities using the data obtained from the United Nations Statistics Division. Exploration of the countries with the most imports, exports, re-imports, re-exports, and top traded commodities by the commodity value. In addition, creating a dashboard displaying each country’s total imports and exports, top commodities imported and exported, and the trade balance.
 
 ### [Presentation](https://public.tableau.com/views/GlobalInsightImportandExport2014-2016/GlobalInsightImportExport2014-2016?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
