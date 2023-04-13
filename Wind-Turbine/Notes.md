@@ -2,6 +2,8 @@
 
 ### Date : March 2023
 
+### Team : Haleema Esam, Jubran AlTaitoon, Ameera Salman, Khulood Aloun, & Zahra Alkhawaja
+
 ### Tools :
   - Jupyter Notebook + Python (Pandas, Numpy, Seaborn & Plotly) : Data Cleaning & EDA
   - Tableau : Visualization
